@@ -1,0 +1,6 @@
+
+1. We can add robust GUI to make it user freindly.
+2. Desktop version of an app.
+3. Website version of the application.
+4. It can be improved to calculate every kind of measurement such as weight, volume etc.
+5. All kinds of conversions can be provided, not limited to only 6 units.
