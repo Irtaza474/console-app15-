@@ -1,0 +1,5 @@
+1. GUI can be improved.
+2. Desktop App can be made.
+3. Database can be added for storing hot data instead of volatile data.
+4. Full stack application can be made using frontend, backend and database.
+5. More functionalities such as graphs, charts can be added using Tableau and Python.
