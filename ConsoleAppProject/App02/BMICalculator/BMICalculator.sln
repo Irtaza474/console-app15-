@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{AD0E4BE2-1A40-412C-9BA7-79156DC9EE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0E4BE2-1A40-412C-9BA7-79156DC9EE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0E4BE2-1A40-412C-9BA7-79156DC9EE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0E4BE2-1A40-412C-9BA7-79156DC9EE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0E4BE2-1A40-412C-9BA7-79156DC9EE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
